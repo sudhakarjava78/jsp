@@ -1,0 +1,8 @@
+<taglib>
+	<jsp-version>2.1</jsp-version>
+	<tlib-version>1.0</tlib-version>
+	<tag>
+		<name>reverse</name>
+		<tag-class>com.sudha.Reverse</tag-class>
+	</tag>
+</taglib>
